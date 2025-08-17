@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+	(property "Reference" "SW-SPDT"
+		(at 0 -0.6 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "7050739b-fbfd-4332-a4e9-d7048d47dc42")
@@ -129,19 +129,6 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "609d2cc4-4c7f-43e5-bfb4-380cb50725da")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(fp_text user "1"
-		(at 12 0 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "ef6596da-b0cb-46c2-b262-0cfeebde7fe2")
 		(effects
 			(font
 				(size 1 1)
